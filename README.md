@@ -1,6 +1,6 @@
 # Insurance Cost Predictions :hospital:
 
-<img src="images/Health-Insurance.jpg" width="1000" height="300" />
+<img src="images/Health-Insurance.jpg" width="1000" height="200" />
 
 
 filename | description
